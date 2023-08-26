@@ -1,7 +1,0 @@
-[package]
-name = "ec2-user/voldex-wally-index"
-version = "0.1.0"
-registry = "https://github.com/voldexroblox/voldex-wally-index"
-realm = "shared"
-
-[dependencies]
